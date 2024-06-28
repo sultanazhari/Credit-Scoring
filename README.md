@@ -20,16 +20,3 @@ debt: apakah nasabah pernah melakukan gagal bayar pinjaman<br>
 total_income: pendapatan bulanan<br>
 purpose: alasan mengambil pinjaman<br>
 Bagaimana proses penilaian proyek dilakukan?<br>
-Peninjau kodemu akan menggunakan kriteria penilaian untuk mengevaluasi proyekmu. Sebelum memulainya, baca kriteria berikut dengan saksama. Hal ini dapat membantumu melakukan pekerjaan dengan baik.
-
-##  Berikut adalah hal-hal yang dijadikan pertimbangan mentor dalam menilai proyekmu:
-
-Bagaimana caramu mendeskripsikan masalah yang teridentifikasi dalam data?<br>
-Metode apa saja yang kamu gunakan untuk mengganti tipe data dan memproses nilai yang hilang dan data duplikat?<br>
-Apakah kamu mengategorikan datanya?<br>
-Mengapa kamu melakukannya dengan cara tersebut?<br>
-Apakah kamu mengekspor data akhir ke dalam pivot table?<br>
-Apakah kamu menggunakan try–except dalam kode untuk menangani error yang tidak terduga?<br>
-Apakah kamu mengikuti struktur proyek dengan benar dan mengetik kode dengan rapi?<br>
-Apakah kesimpulan yang kamu ambil sudah tepat dan berguna?<br>
-Apakah kamu menuliskan komentar pada setiap langkah yang kamu ambil?<br>
